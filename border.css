@@ -1,0 +1,31 @@
+.dotted{
+    border-style: dotted;
+    border-color: blueviolet;
+    color: brown;
+    border-width: 7px;
+}
+.dashed{ 
+    border-style: dashed;
+}
+.double{ 
+    border-style: double;
+}
+.solid{
+    border-style: solid;
+}
+.ridge{
+    border-style: ridge;
+}
+.groove{
+    border-style: groove;
+}
+.inset{
+    border-style: inset;
+}
+.outset{
+    border-style: outset;
+}
+.none{
+    border-style: none;
+}
+.hidden{ border-style: hidden;}
